@@ -28,7 +28,7 @@ client.on('message', message => {
           console.error(err);
           return;
         } else{
-			message.reply('Or Bolo😁');
+			message.reply('Or btao😁');
 		}
         
         // Parse the JSON data
